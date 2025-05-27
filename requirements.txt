@@ -7,3 +7,7 @@ streamlit
 selenium
 ChromeDriverManager
 webdriver_manager
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langgraph>=0.0.20
+pydantic>=2.0.0,<3.0.0
