@@ -1,0 +1,9 @@
+ollama
+duckduckgo_search
+playwright
+pandas
+openpyxl
+streamlit
+selenium
+ChromeDriverManager
+webdriver_manager
